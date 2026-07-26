@@ -1,7 +1,7 @@
 # Classic Simon Game
 
-##  Description
-> This is a very complicated Js project that combines between Js and jQ in a simon game the classic memory game logic
+## Description
+> This is a complicated Js project that combines JS and jQuery in a classic Simon game, with memory game logic
 
 ## 🌐 Visit Game: https://playsimonmemo.netlify.app/
 
