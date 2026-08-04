@@ -10,7 +10,7 @@
 ## Feutures 🎆
 - interactive
 - fun to play
-- -modern and stylish
+- modern and stylish
 - classic
 
 ## Tech Stack 🚀
