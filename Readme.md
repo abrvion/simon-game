@@ -6,3 +6,15 @@
 ## 🌐 Visit Game: https://playsimonmemo.netlify.app/
 
 <img  src="Screenshot 2026-07-25 100938.png" alt="the game pictue " />
+
+## Feutures 🎆
+- interactive
+- fun to play
+- -modern and stylish
+- classic
+
+## Tech Stack 🚀
+- HTML
+- CSS
+- JS
+- JQ
