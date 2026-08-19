@@ -5,13 +5,13 @@
 ### Description 📝
  <p> This is a complicated JS project that combines JS and jQuery in a classic Simon game, with memory game logic </p>
  
-## Feutures 🎆
-- interactive
+#### Feutures 🎆
+- Interactive
+- responsive
 - fun to play
-- modern and stylish
-- classic
+- sound-based
 
-## Tech Stack 🚀
+#### Tech Stack 🚀
 - HTML
 - CSS
 - JS
