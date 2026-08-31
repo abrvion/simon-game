@@ -27,8 +27,8 @@ Follow these steps to get a local copy of We Try up and running on your machine.
 Open your terminal and run the following commands:
 
 ```bash
-git clone https://github.com/abrvion/we-try.git
-cd we-try
+git clone https://github.com/abrvion/simon-game.git
+cd simon-game
 npm install
 node index.js
 ```
