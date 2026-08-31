@@ -16,3 +16,19 @@
 - CSS
 - JS
 - JQ
+## 🛠️ Installation
+
+Follow these steps to get a local copy of We Try up and running on your machine.
+
+### Prerequisites
+* Make sure you have **Node.js** installed ([Download Node.js](https://nodejs.org))
+
+### Setup Steps
+Open your terminal and run the following commands:
+
+```bash
+git clone https://github.com/abrvion/we-try.git
+cd we-try
+npm install
+node index.js
+```
