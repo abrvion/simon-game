@@ -16,7 +16,7 @@
 - CSS
 - JS
 - JQ
-## 🛠️ Installation
+### 🛠️ Installation
 
 Follow these steps to get a local copy of We Try up and running on your machine.
 
